@@ -1,3 +1,3 @@
 <?php
-echo '../'.$_SERVER['DOCUMENT_ROOT'].'/filesonmanager';
+echo $_SERVER['DOCUMENT_ROOT'];
 ?>

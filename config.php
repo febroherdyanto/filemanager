@@ -49,7 +49,7 @@ $default_timezone = 'Asia/Jakarta'; // UTC
 // Root path for file manager
 // use absolute path of directory i.e: '/var/www/folder' or $_SERVER['DOCUMENT_ROOT'].'/folder'
 //$root_path = 'https://onedrive.live.com/redir.aspx?cid=1848c1b59b9dcc40&resid=1848C1B59B9DCC40!226915&parId=1848C1B59B9DCC40!128328&authkey=!AJ-MCpQKhiSYfgI';
-$root_path = '/home/febroher1/public_html/filesonmanager';
+$root_path = '/home/febroher1/public_html/filesonmanager/';
 
 // Root url for links in file manager.Relative to $http_host. Variants: '', 'path/to/subfolder'
 // Will not working if $root_path will be outside of server document root
