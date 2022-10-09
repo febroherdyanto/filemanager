@@ -29,9 +29,7 @@ $auth_users = array();
 
 // Readonly users
 // e.g. array('users', 'guest', ...)
-$readonly_users = array(
-    'user'
-);
+$readonly_users = array();
 
 // Global readonly, including when auth is not being used
 $global_readonly = false;
